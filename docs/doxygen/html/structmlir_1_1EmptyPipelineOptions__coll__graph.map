@@ -1,0 +1,4 @@
+<map id="mlir::EmptyPipelineOptions" name="mlir::EmptyPipelineOptions">
+<area shape="rect" id="node2" href="$classmlir_1_1PassPipelineOptions.html" title="mlir::PassPipelineOptions\l\&lt; EmptyPipelineOptions \&gt;" alt="" coords="8,155,183,196"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1PassOptions.html" title="Base container class and manager for all pass options. " alt="" coords="13,80,178,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mlir::ModuleTerminatorOp" name="mlir::ModuleTerminatorOp">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ModuleTerminator\lOp, OpTrait::ZeroOperands,\l OpTrait::ZeroResult, OpTrait\l::HasParent\&lt; ModuleOp \&gt;::Impl,\l OpTrait::IsTerminator \&gt;" alt="" coords="649,35,861,120"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="407,5,505,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; ModuleTerminatorOp \&gt;" alt="" coords="364,57,548,98"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ModuleTerminatorOp, ZeroOperands \&gt;" alt="" coords="5,57,263,98"/>
+<area shape="rect" id="node6" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ModuleTerminatorOp,\l llvm::is_one_of\&lt; OpTrait\l::OneResult\&lt; ModuleTerminatorOp\l \&gt;, OpTrait::ZeroOperands\&lt; ModuleTerminator\lOp \&gt;... \&gt;::value \&gt;" alt="" coords="311,122,601,222"/>
+</map>

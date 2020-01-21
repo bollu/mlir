@@ -1,0 +1,62 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineApplyOp, llvm\l::is_one_of\&lt; OpTrait\l::OneResult\&lt; AffineApplyOp\l \&gt;, OpTrait::VariadicOperands\l\&lt; AffineApplyOp \&gt;... \&gt;::value \&gt;" alt="" coords="672,78,877,178"/>
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineApplyOp,\l OpTrait::VariadicOperands,\l OpTrait::OneResult, OpTrait\l::HasNoSideEffect \&gt;" alt="" coords="1009,93,1200,163"/>
+<area shape="rect" id="node3" href="$classmlir_1_1AffineApplyOp.html" title="mlir::AffineApplyOp" alt="" coords="1308,115,1443,141"/>
+<area shape="rect" id="node4" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineDmaStartOp, llvm\l::is_one_of\&lt; OpTrait::OneResult\l\&lt; AffineDmaStartOp \&gt;, OpTrait\l::VariadicOperands\&lt; AffineDmaStartOp\l \&gt;... \&gt;::value \&gt;" alt="" coords="649,267,901,367"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineDmaStart\lOp, OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1002,289,1207,345"/>
+<area shape="rect" id="node6" href="$classmlir_1_1AffineDmaStartOp.html" title="mlir::AffineDmaStartOp" alt="" coords="1296,304,1455,331"/>
+<area shape="rect" id="node7" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineDmaWaitOp, llvm\l::is_one_of\&lt; OpTrait::\lOneResult\&lt; AffineDmaWaitOp\l \&gt;, OpTrait::VariadicOperands\l\&lt; AffineDmaWaitOp \&gt;... \&gt;::value \&gt;" alt="" coords="661,457,888,557"/>
+<area shape="rect" id="node8" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineDmaWaitOp,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1009,479,1200,535"/>
+<area shape="rect" id="node9" href="$classmlir_1_1AffineDmaWaitOp.html" title="mlir::AffineDmaWaitOp" alt="" coords="1297,493,1454,520"/>
+<area shape="rect" id="node10" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineLoadOp, llvm\l::is_one_of\&lt; OpTrait\l::OneResult\&lt; AffineLoadOp\l \&gt;, OpTrait::OneResult\&lt; AffineLoad\lOp \&gt;... \&gt;::value \&gt;" alt="" coords="660,646,889,746"/>
+<area shape="rect" id="node11" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineLoadOp,\l OpTrait::OneResult, OpTrait\l::AtLeastNOperands\&lt; 1 \&gt;::Impl \&gt;" alt="" coords="996,668,1213,724"/>
+<area shape="rect" id="node12" href="$classmlir_1_1AffineLoadOp.html" title="mlir::AffineLoadOp" alt="" coords="1310,683,1441,709"/>
+<area shape="rect" id="node13" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineStoreOp, llvm\l::is_one_of\&lt; OpTrait\l::OneResult\&lt; AffineStoreOp\l \&gt;, OpTrait::ZeroResult\&lt;\l AffineStoreOp \&gt;... \&gt;::value \&gt;" alt="" coords="677,835,872,935"/>
+<area shape="rect" id="node14" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineStoreOp,\l OpTrait::ZeroResult,\l OpTrait::AtLeastNOperands\l\&lt; 1 \&gt;::Impl \&gt;" alt="" coords="1011,850,1199,921"/>
+<area shape="rect" id="node15" href="$classmlir_1_1AffineStoreOp.html" title="mlir::AffineStoreOp" alt="" coords="1309,872,1442,899"/>
+<area shape="rect" id="node16" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ConcreteType, llvm\l::is_one_of\&lt; OpTrait\l::OneResult\&lt; ConcreteType\l \&gt;, Traits\&lt; ConcreteType\l \&gt;... \&gt;::value \&gt;" alt="" coords="681,1011,868,1111"/>
+<area shape="rect" id="node17" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ConcreteType,\l Traits \&gt;" alt="" coords="1021,1011,1188,1053"/>
+<area shape="rect" id="node18" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ConcreteType \&gt;" alt="" coords="1017,1077,1192,1104"/>
+<area shape="rect" id="node19" href="$classmlir_1_1OpInterface.html" title="mlir::OpInterface\&lt;\l ConcreteType, Traits \&gt;" alt="" coords="1295,1070,1456,1111"/>
+<area shape="rect" id="node20" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l DmaStartOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; DmaStartOp \&gt;, OpTrait::VariadicOperands\l\&lt; DmaStartOp \&gt;... \&gt;::value \&gt;" alt="" coords="634,1253,915,1339"/>
+<area shape="rect" id="node21" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; DmaStartOp,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1013,1180,1197,1236"/>
+<area shape="rect" id="node22" href="$classmlir_1_1DmaStartOp.html" title="mlir::DmaStartOp" alt="" coords="1313,1195,1437,1221"/>
+<area shape="rect" id="node23" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l DmaWaitOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; DmaWaitOp \&gt;, OpTrait::Variadic\lOperands\&lt; DmaWaitOp \&gt;... \&gt;::value \&gt;" alt="" coords="650,1429,899,1515"/>
+<area shape="rect" id="node24" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; DmaWaitOp,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1013,1356,1197,1412"/>
+<area shape="rect" id="node25" href="$classmlir_1_1DmaWaitOp.html" title="mlir::DmaWaitOp" alt="" coords="1314,1371,1437,1397"/>
+<area shape="rect" id="node26" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l FuncOp, llvm::is_one\l_of\&lt; OpTrait::OneResult\l\&lt; FuncOp \&gt;, OpTrait::ZeroOperands\l\&lt; FuncOp \&gt;... \&gt;::value \&gt;" alt="" coords="658,1605,891,1691"/>
+<area shape="rect" id="node27" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; FuncOp, OpTrait\l::ZeroOperands, OpTrait\l::ZeroResult, OpTrait::IsIsolated\lFromAbove, OpTrait::Symbol, OpTrait\l::FunctionLike, CallableOpInterface::Trait \&gt;" alt="" coords="968,1517,1241,1603"/>
+<area shape="rect" id="node28" href="$classmlir_1_1FuncOp.html" title="mlir::FuncOp" alt="" coords="1327,1547,1424,1573"/>
+<area shape="rect" id="node29" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ModuleOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; ModuleOp \&gt;, OpTrait::ZeroOperands\l\&lt; ModuleOp \&gt;... \&gt;::value \&gt;" alt="" coords="651,1781,898,1867"/>
+<area shape="rect" id="node30" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ModuleOp,\l OpTrait::ZeroOperands,\l OpTrait::ZeroResult,\l OpTrait::IsIsolatedFromAbove,\l OpTrait::SymbolTable, OpTrait\l::SingleBlockImplicitTerminator\l\&lt; ModuleTerminatorOp \&gt;::Impl \&gt;" alt="" coords="999,1679,1211,1793"/>
+<area shape="rect" id="node31" href="$classmlir_1_1ModuleOp.html" title="mlir::ModuleOp" alt="" coords="1320,1723,1431,1749"/>
+<area shape="rect" id="node32" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ModuleTerminatorOp,\l llvm::is_one_of\&lt; OpTrait\l::OneResult\&lt; ModuleTerminatorOp\l \&gt;, OpTrait::ZeroOperands\&lt; ModuleTerminator\lOp \&gt;... \&gt;::value \&gt;" alt="" coords="629,1957,920,2057"/>
+<area shape="rect" id="node33" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ModuleTerminator\lOp, OpTrait::ZeroOperands,\l OpTrait::ZeroResult, OpTrait\l::HasParent\&lt; ModuleOp \&gt;::Impl,\l OpTrait::IsTerminator \&gt;" alt="" coords="999,1869,1211,1955"/>
+<area shape="rect" id="node34" href="$classmlir_1_1ModuleTerminatorOp.html" title="mlir::ModuleTerminatorOp" alt="" coords="1289,1899,1461,1925"/>
+<area shape="rect" id="node35" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="725,960,824,987"/>
+<area shape="rect" id="node36" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineApplyOp, VariadicOperands \&gt;" alt="" coords="17,13,258,54"/>
+<area shape="rect" id="node37" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; AffineApplyOp, VariadicOperands \&gt;" alt="" coords="329,5,570,61"/>
+<area shape="rect" id="node38" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; AffineApplyOp \&gt;" alt="" coords="672,13,877,54"/>
+<area shape="rect" id="node39" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineDmaStartOp, VariadicOperands \&gt;" alt="" coords="5,202,269,243"/>
+<area shape="rect" id="node40" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; AffineDmaStartOp, VariadicOperands \&gt;" alt="" coords="317,195,581,251"/>
+<area shape="rect" id="node41" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; AffineDmaStartOp \&gt;" alt="" coords="672,202,877,243"/>
+<area shape="rect" id="node42" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineDmaWaitOp, VariadicOperands \&gt;" alt="" coords="6,391,269,433"/>
+<area shape="rect" id="node43" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; AffineDmaWaitOp, VariadicOperands \&gt;" alt="" coords="318,384,581,440"/>
+<area shape="rect" id="node44" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; AffineDmaWaitOp \&gt;" alt="" coords="672,391,877,433"/>
+<area shape="rect" id="node45" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineLoadOp, OneResult \&gt;" alt="" coords="352,581,547,622"/>
+<area shape="rect" id="node46" href="$classmlir_1_1OpTrait_1_1OneResult.html" title="mlir::OpTrait::OneResult\l\&lt; AffineLoadOp \&gt;" alt="" coords="693,581,857,622"/>
+<area shape="rect" id="node47" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineStoreOp, ZeroResult \&gt;" alt="" coords="349,770,549,811"/>
+<area shape="rect" id="node48" href="$classmlir_1_1OpTrait_1_1ZeroResult.html" title="mlir::OpTrait::ZeroResult\l\&lt; AffineStoreOp \&gt;" alt="" coords="691,770,858,811"/>
+<area shape="rect" id="node49" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; DmaStartOp, VariadicOperands \&gt;" alt="" coords="22,1187,253,1229"/>
+<area shape="rect" id="node50" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; DmaStartOp, VariadicOperands \&gt;" alt="" coords="334,1180,565,1236"/>
+<area shape="rect" id="node51" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; DmaStartOp \&gt;" alt="" coords="672,1187,877,1229"/>
+<area shape="rect" id="node52" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; DmaWaitOp, VariadicOperands \&gt;" alt="" coords="23,1363,252,1405"/>
+<area shape="rect" id="node53" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; DmaWaitOp, VariadicOperands \&gt;" alt="" coords="335,1356,564,1412"/>
+<area shape="rect" id="node54" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; DmaWaitOp \&gt;" alt="" coords="672,1363,877,1405"/>
+<area shape="rect" id="node55" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; FuncOp, ZeroOperands \&gt;" alt="" coords="358,1539,541,1581"/>
+<area shape="rect" id="node56" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; FuncOp \&gt;" alt="" coords="683,1539,867,1581"/>
+<area shape="rect" id="node57" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ModuleOp, ZeroOperands \&gt;" alt="" coords="352,1715,547,1757"/>
+<area shape="rect" id="node58" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; ModuleOp \&gt;" alt="" coords="683,1715,867,1757"/>
+<area shape="rect" id="node59" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ModuleTerminatorOp, ZeroOperands \&gt;" alt="" coords="321,1891,578,1933"/>
+<area shape="rect" id="node60" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; ModuleTerminatorOp \&gt;" alt="" coords="683,1891,867,1933"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mlir::OpInterface&lt; ConcreteType, Traits &gt;" name="mlir::OpInterface&lt; ConcreteType, Traits &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ConcreteType \&gt;" alt="" coords="240,56,415,83"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="49,5,148,32"/>
+<area shape="rect" id="node5" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ConcreteType, llvm\l::is_one_of\&lt; OpTrait\l::OneResult\&lt; ConcreteType\l \&gt;, Traits\&lt; ConcreteType\l \&gt;... \&gt;::value \&gt;" alt="" coords="5,107,192,207"/>
+</map>

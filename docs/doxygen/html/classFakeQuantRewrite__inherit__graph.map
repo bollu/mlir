@@ -1,0 +1,5 @@
+<map id="FakeQuantRewrite&lt; ConcreteRewriteClass, FakeQuantOp &gt;" name="FakeQuantRewrite&lt; ConcreteRewriteClass, FakeQuantOp &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; FakeQuantOp \&gt;" alt="" coords="29,155,184,196"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="mlir::RewritePattern" alt="" coords="37,80,176,107"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="mlir::Pattern" alt="" coords="60,5,153,32"/>
+</map>

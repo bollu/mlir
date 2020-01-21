@@ -1,0 +1,7 @@
+<map id="mlir::detail::OpToOpPassAdaptor" name="mlir::detail::OpToOpPassAdaptor">
+<area shape="rect" id="node2" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; OpToOpPassAdaptor \&gt;" alt="" coords="41,259,212,300"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; OpToOpPassAdaptor, OpPassBase\l\&lt; void \&gt; \&gt;" alt="" coords="5,155,248,211"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpPassBase.html" title="mlir::OpPassBase\&lt; void \&gt;" alt="" coords="39,80,215,107"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Pass.html" title="mlir::Pass" alt="" coords="86,5,167,32"/>
+<area shape="rect" id="node6" href="$classmlir_1_1detail_1_1OpToOpPassAdaptorBase.html" title="A base class for Op&#45;to&#45;Op adaptor passes. " alt="" coords="237,259,406,300"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="mlir::TypeStorage" name="mlir::TypeStorage">
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1ComplexTypeStorage.html" title="Complex Type Storage. " alt="" coords="381,5,551,47"/>
+<area shape="rect" id="node4" href="$structmlir_1_1detail_1_1FunctionTypeStorage.html" title="Function Type Storage and Uniquing. " alt="" coords="381,71,551,112"/>
+<area shape="rect" id="node5" href="$structmlir_1_1detail_1_1IntegerTypeStorage.html" title="Integer Type Storage and Uniquing. " alt="" coords="387,136,545,177"/>
+<area shape="rect" id="node6" href="$structmlir_1_1detail_1_1OpaqueTypeStorage.html" title="Opaque Type Storage and Uniquing. " alt="" coords="384,201,548,243"/>
+<area shape="rect" id="node7" href="$structmlir_1_1detail_1_1ShapedTypeStorage.html" title="Shaped Type Storage. " alt="" coords="385,267,547,308"/>
+<area shape="rect" id="node13" href="$structmlir_1_1detail_1_1TupleTypeStorage.html" title="A type representing a collection of other types. " alt="" coords="368,333,564,359"/>
+<area shape="rect" id="node14" href="$structmlir_1_1LLVM_1_1detail_1_1LLVMTypeStorage.html" title="mlir::LLVM::detail\l::LLVMTypeStorage" alt="" coords="397,384,535,425"/>
+<area shape="rect" id="node15" href="$structmlir_1_1quant_1_1detail_1_1QuantizedTypeStorage.html" title="mlir::quant::detail\l::QuantizedTypeStorage" alt="" coords="385,449,547,491"/>
+<area shape="rect" id="node19" href="$structspirv_1_1detail_1_1ArrayTypeStorage.html" title="mlir::spirv::detail\l::ArrayTypeStorage" alt="" coords="399,515,533,556"/>
+<area shape="rect" id="node20" href="$structspirv_1_1detail_1_1ImageTypeStorage.html" title="spirv::detail::ImageType\lStorage" alt="" coords="385,580,547,621"/>
+<area shape="rect" id="node21" href="$structspirv_1_1detail_1_1PointerTypeStorage.html" title="mlir::spirv::detail\l::PointerTypeStorage" alt="" coords="393,645,539,687"/>
+<area shape="rect" id="node22" href="$structspirv_1_1detail_1_1RuntimeArrayTypeStorage.html" title="mlir::spirv::detail\l::RuntimeArrayTypeStorage" alt="" coords="374,711,558,752"/>
+<area shape="rect" id="node23" href="$structspirv_1_1detail_1_1StructTypeStorage.html" title="mlir::spirv::detail\l::StructTypeStorage" alt="" coords="397,776,535,817"/>
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="5,384,147,425"/>
+<area shape="rect" id="node8" href="$structmlir_1_1detail_1_1MemRefTypeStorage.html" title="mlir::detail::MemRefType\lStorage" alt="" coords="633,97,802,139"/>
+<area shape="rect" id="node9" href="$structmlir_1_1detail_1_1RankedTensorTypeStorage.html" title="mlir::detail::RankedTensor\lTypeStorage" alt="" coords="630,163,805,204"/>
+<area shape="rect" id="node10" href="$structmlir_1_1detail_1_1UnrankedMemRefTypeStorage.html" title="mlir::detail::UnrankedMem\lRefTypeStorage" alt="" coords="630,228,805,269"/>
+<area shape="rect" id="node11" href="$structmlir_1_1detail_1_1UnrankedTensorTypeStorage.html" title="mlir::detail::UnrankedTensor\lTypeStorage" alt="" coords="624,293,811,335"/>
+<area shape="rect" id="node12" href="$structmlir_1_1detail_1_1VectorTypeStorage.html" title="Vector Type Storage and Uniquing. " alt="" coords="639,359,796,400"/>
+<area shape="rect" id="node16" href="$structmlir_1_1quant_1_1detail_1_1AnyQuantizedTypeStorage.html" title="mlir::quant::detail\l::AnyQuantizedTypeStorage" alt="" coords="624,424,811,465"/>
+<area shape="rect" id="node17" href="$structmlir_1_1quant_1_1detail_1_1UniformQuantizedPerAxisTypeStorage.html" title="mlir::quant::detail\l::UniformQuantizedPerAxisType\lStorage" alt="" coords="612,490,823,546"/>
+<area shape="rect" id="node18" href="$structmlir_1_1quant_1_1detail_1_1UniformQuantizedTypeStorage.html" title="mlir::quant::detail\l::UniformQuantizedTypeStorage" alt="" coords="613,571,822,612"/>
+</map>

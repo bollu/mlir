@@ -1,0 +1,29 @@
+<map id="lib/Quantizer/Transforms/AddDefaultStatsTestPass.cpp" name="lib/Quantizer/Transforms/AddDefaultStatsTestPass.cpp">
+<area shape="rect" id="node2" href="$QuantOps_8h.html" title="mlir/Dialect/QuantOps\l/QuantOps.h" alt="" coords="429,452,579,493"/>
+<area shape="rect" id="node3" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="362,855,494,881"/>
+<area shape="rect" id="node10" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="1580,1079,1767,1105"/>
+<area shape="rect" id="node15" href="$IR_2Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="955,549,1077,575"/>
+<area shape="rect" id="node30" href="$QuantTypes_8h.html" title="mlir/Dialect/QuantOps\l/QuantTypes.h" alt="" coords="966,452,1117,493"/>
+<area shape="rect" id="node31" href="$FxpMathConfig_8h.html" title="mlir/Quantizer/Configurations\l/FxpMathConfig.h" alt="" coords="1450,95,1641,136"/>
+<area shape="rect" id="node32" href="$Configuration_8h.html" title="mlir/Quantizer/Support\l/Configuration.h" alt="" coords="1228,184,1380,225"/>
+<area shape="rect" id="node33" href="$ConstraintAnalysisGraph_8h.html" title="mlir/Quantizer/Support\l/ConstraintAnalysisGraph.h" alt="" coords="1669,273,1851,315"/>
+<area shape="rect" id="node45" href="$ConstraintAnalysisGraphTraits_8h.html" title="mlir/Quantizer/Support\l/ConstraintAnalysisGraphTraits.h" alt="" coords="1717,95,1931,136"/>
+<area shape="rect" id="node47" href="$Quantizer_2Transforms_2Passes_8h.html" title="mlir/Quantizer/Transforms\l/Passes.h" alt="" coords="1997,184,2171,225"/>
+<area shape="rect" id="node16" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="954,631,1102,657"/>
+<area shape="rect" id="node22" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1017,855,1129,881"/>
+<area shape="rect" id="node26" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="611,549,728,575"/>
+<area shape="rect" id="node27" href="$StandardTypes_8h.html" title="mlir/IR/StandardTypes.h" alt="" coords="422,549,586,575"/>
+<area shape="rect" id="node4" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="432,929,603,956"/>
+<area shape="rect" id="node5" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="1425,1004,1580,1031"/>
+<area shape="rect" id="node9" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="968,1004,1179,1031"/>
+<area shape="rect" id="node6" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1472,1153,1613,1180"/>
+<area shape="rect" id="node17" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="1106,705,1238,732"/>
+<area shape="rect" id="node18" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="1021,780,1198,807"/>
+<area shape="rect" id="node19" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="1314,855,1441,881"/>
+<area shape="rect" id="node23" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="998,929,1149,956"/>
+<area shape="rect" id="node37" href="$Metadata_8h.html" title="mlir/Quantizer/Support\l/Metadata.h" alt="" coords="1520,363,1672,404"/>
+<area shape="rect" id="node39" href="$Rules_8h.html" title="mlir/Quantizer/Support\l/Rules.h" alt="" coords="1419,452,1571,493"/>
+<area shape="rect" id="node35" href="$Function_8h.html" title="mlir/IR/Function.h" alt="" coords="1875,549,2002,575"/>
+<area shape="rect" id="node36" href="$Module_8h.html" title="mlir/IR/Module.h" alt="" coords="1849,370,1967,397"/>
+<area shape="rect" id="node48" href="$Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="2063,459,2185,486"/>
+</map>

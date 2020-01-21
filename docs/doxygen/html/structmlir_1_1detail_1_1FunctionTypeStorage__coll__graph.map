@@ -1,0 +1,5 @@
+<map id="mlir::detail::FunctionTypeStorage" name="mlir::detail::FunctionTypeStorage">
+<area shape="rect" id="node2" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="27,96,153,123"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="106,185,186,212"/>
+<area shape="rect" id="node3" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="19,5,161,47"/>
+</map>

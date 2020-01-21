@@ -1,0 +1,9 @@
+<map id="include/mlir/Quantizer/Support/Configuration.h" name="include/mlir/Quantizer/Support/Configuration.h">
+<area shape="rect" id="node2" href="$Configuration_8cpp.html" title="lib/Quantizer/Support\l/Configuration.cpp" alt="" coords="5,95,149,136"/>
+<area shape="rect" id="node3" href="$ConstraintAnalysisGraph_8cpp.html" title="lib/Quantizer/Support\l/ConstraintAnalysisGraph.cpp" alt="" coords="174,95,370,136"/>
+<area shape="rect" id="node4" href="$UniformConstraints_8cpp.html" title="lib/Quantizer/Support\l/UniformConstraints.cpp" alt="" coords="394,95,558,136"/>
+<area shape="rect" id="node5" href="$AddDefaultStatsTestPass_8cpp.html" title="lib/Quantizer/Transforms\l/AddDefaultStatsTestPass.cpp" alt="" coords="423,184,625,225"/>
+<area shape="rect" id="node6" href="$InferQuantizedTypesPass_8cpp.html" title="lib/Quantizer/Transforms\l/InferQuantizedTypesPass.cpp" alt="" coords="857,184,1060,225"/>
+<area shape="rect" id="node7" href="$FxpMathConfig_8h.html" title="include/mlir/Quantizer\l/Configurations/FxpMathConfig.h" alt="" coords="634,95,849,136"/>
+<area shape="rect" id="node8" href="$FxpMathConfig_8cpp.html" title="lib/Quantizer/Configurations\l/FxpMathConfig.cpp" alt="" coords="650,184,833,225"/>
+</map>

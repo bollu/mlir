@@ -1,0 +1,5 @@
+<map id="include/mlir/Quantizer/Configurations/FxpMathConfig.h" name="include/mlir/Quantizer/Configurations/FxpMathConfig.h">
+<area shape="rect" id="node2" href="$FxpMathConfig_8cpp.html" title="lib/Quantizer/Configurations\l/FxpMathConfig.cpp" alt="" coords="5,95,188,136"/>
+<area shape="rect" id="node3" href="$AddDefaultStatsTestPass_8cpp.html" title="lib/Quantizer/Transforms\l/AddDefaultStatsTestPass.cpp" alt="" coords="213,95,415,136"/>
+<area shape="rect" id="node4" href="$InferQuantizedTypesPass_8cpp.html" title="lib/Quantizer/Transforms\l/InferQuantizedTypesPass.cpp" alt="" coords="439,95,642,136"/>
+</map>

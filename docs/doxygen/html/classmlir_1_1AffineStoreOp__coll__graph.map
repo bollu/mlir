@@ -1,0 +1,7 @@
+<map id="mlir::AffineStoreOp" name="mlir::AffineStoreOp">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineStoreOp,\l OpTrait::ZeroResult,\l OpTrait::AtLeastNOperands\l\&lt; 1 \&gt;::Impl \&gt;" alt="" coords="496,42,684,113"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="301,5,400,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpTrait_1_1ZeroResult.html" title="mlir::OpTrait::ZeroResult\l\&lt; AffineStoreOp \&gt;" alt="" coords="267,57,434,98"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineStoreOp, ZeroResult \&gt;" alt="" coords="5,57,205,98"/>
+<area shape="rect" id="node6" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineStoreOp, llvm\l::is_one_of\&lt; OpTrait\l::OneResult\&lt; AffineStoreOp\l \&gt;, OpTrait::ZeroResult\&lt;\l AffineStoreOp \&gt;... \&gt;::value \&gt;" alt="" coords="253,122,448,222"/>
+</map>

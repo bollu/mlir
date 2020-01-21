@@ -1,0 +1,7 @@
+<map id="mlir::MemRefDescriptor" name="mlir::MemRefDescriptor">
+<area shape="rect" id="node2" href="$classmlir_1_1StructBuilder.html" title="mlir::StructBuilder" alt="" coords="23,275,149,301"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Value.html" title="mlir::Value" alt="" coords="11,185,95,212"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="119,185,199,212"/>
+<area shape="rect" id="node5" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="97,96,222,123"/>
+<area shape="rect" id="node6" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="89,5,230,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="include/mlir/Dialect/QuantOps/Passes.h" name="include/mlir/Dialect/QuantOps/Passes.h">
+<area shape="rect" id="node2" href="$ConvertConst_8cpp.html" title="lib/Dialect/QuantOps\l/Transforms/ConvertConst.cpp" alt="" coords="5,95,208,136"/>
+<area shape="rect" id="node3" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/QuantOps\l/Transforms/ConvertSimQuant.cpp" alt="" coords="233,95,458,136"/>
+</map>

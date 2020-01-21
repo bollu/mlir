@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ConcreteType, ResultsAreInteger\lLike \&gt;" alt="" coords="5,5,235,61"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1ResultsAreIntegerLike.html" title="mlir::OpTrait::ResultsAre\lIntegerLike\&lt; ConcreteType \&gt;" alt="" coords="283,13,475,54"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mlir::FuncOp" name="mlir::FuncOp">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; FuncOp, OpTrait\l::ZeroOperands, OpTrait\l::ZeroResult, OpTrait::IsIsolated\lFromAbove, OpTrait::Symbol, OpTrait\l::FunctionLike, CallableOpInterface::Trait \&gt;" alt="" coords="517,35,791,120"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="303,5,402,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; FuncOp \&gt;" alt="" coords="261,57,445,98"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; FuncOp, ZeroOperands \&gt;" alt="" coords="5,57,188,98"/>
+<area shape="rect" id="node6" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l FuncOp, llvm::is_one\l_of\&lt; OpTrait::OneResult\l\&lt; FuncOp \&gt;, OpTrait::ZeroOperands\l\&lt; FuncOp \&gt;... \&gt;::value \&gt;" alt="" coords="236,123,469,208"/>
+</map>

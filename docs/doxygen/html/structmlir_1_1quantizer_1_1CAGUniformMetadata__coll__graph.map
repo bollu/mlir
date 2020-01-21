@@ -1,0 +1,8 @@
+<map id="mlir::quantizer::CAGUniformMetadata" name="mlir::quantizer::CAGUniformMetadata">
+<area shape="rect" id="node2" href="$classmlir_1_1quantizer_1_1BasePropagatedFact.html" title="mlir::quantizer::BasePropagated\lFact\&lt; std::pair\&lt; double, int64_t \&gt; \&gt;" alt="" coords="528,5,756,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1quantizer_1_1BasePropagatedFact.html" title="mlir::quantizer::BasePropagated\lFact\&lt; ExpandingMinMaxReducer \&gt;" alt="" coords="528,71,756,112"/>
+<area shape="rect" id="node4" href="$classmlir_1_1quant_1_1QuantizedType.html" title="mlir::quant::QuantizedType" alt="" coords="553,137,731,163"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="399,137,479,163"/>
+<area shape="rect" id="node6" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="196,137,321,163"/>
+<area shape="rect" id="node7" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="5,129,147,171"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mlir::quantizer::CandidateQuantizedType" name="mlir::quantizer::CandidateQuantizedType">
+<area shape="rect" id="node2" href="$classmlir_1_1quant_1_1AnyQuantizedType.html" title="mlir::quant::AnyQuantizedType" alt="" coords="376,20,579,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Type::TypeBase\&lt; AnyQuantized\lType, QuantizedType, detail\l::AnyQuantizedTypeStorage \&gt;" alt="" coords="115,5,327,61"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mlir::detail::ConversionPatternRewriterImpl" name="mlir::detail::ConversionPatternRewriterImpl">
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l OperationTransactionState, 4 \&gt;" alt="" coords="14,57,222,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::detail::ConversionPattern\lRewriterImpl::OpReplacement, 4 \&gt;" alt="" coords="5,123,231,179"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l mlir::Operation *, 1 \&gt;" alt="" coords="45,254,191,295"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::detail::ConversionPattern\lRewriterImpl::BlockAction, 4 \&gt;" alt="" coords="17,320,219,376"/>
+</map>

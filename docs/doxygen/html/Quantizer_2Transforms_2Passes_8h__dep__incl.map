@@ -1,0 +1,5 @@
+<map id="include/mlir/Quantizer/Transforms/Passes.h" name="include/mlir/Quantizer/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$AddDefaultStatsTestPass_8cpp.html" title="lib/Quantizer/Transforms\l/AddDefaultStatsTestPass.cpp" alt="" coords="5,95,208,136"/>
+<area shape="rect" id="node3" href="$InferQuantizedTypesPass_8cpp.html" title="lib/Quantizer/Transforms\l/InferQuantizedTypesPass.cpp" alt="" coords="232,95,435,136"/>
+<area shape="rect" id="node4" href="$RemoveInstrumentationPass_8cpp.html" title="lib/Quantizer/Transforms\l/RemoveInstrumentationPass.cpp" alt="" coords="459,95,679,136"/>
+</map>

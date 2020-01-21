@@ -1,0 +1,7 @@
+<map id="mlir::Type" name="mlir::Type">
+<area shape="rect" id="node2" href="$classmlir_1_1quant_1_1QuantizedType.html" title="mlir::quant::QuantizedType" alt="" coords="5,80,184,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ShapedType.html" title="mlir::ShapedType" alt="" coords="209,80,333,107"/>
+<area shape="rect" id="node6" href="$classmlir_1_1spirv_1_1CompositeType.html" title="mlir::spirv::CompositeType" alt="" coords="357,80,536,107"/>
+<area shape="rect" id="node4" href="$classmlir_1_1BaseMemRefType.html" title="Base MemRef for Ranked and Unranked variants. " alt="" coords="108,155,268,181"/>
+<area shape="rect" id="node5" href="$classmlir_1_1TensorType.html" title="mlir::TensorType" alt="" coords="292,155,412,181"/>
+</map>

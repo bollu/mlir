@@ -1,0 +1,5 @@
+<map id="BlockInfoBuilder" name="BlockInfoBuilder">
+<area shape="rect" id="node2" href="$classmlir_1_1Block.html" title="Block represents an ordered list of Operations. " alt="" coords="253,45,337,71"/>
+<area shape="rect" id="node3" href="$classmlir_1_1IRObjectWithUseList.html" title="mlir::IRObjectWithUseList\l\&lt; BlockOperand \&gt;" alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l T, N \&gt;" alt="" coords="229,127,361,168"/>
+</map>

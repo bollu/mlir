@@ -1,0 +1,12 @@
+<map id="mlir::fxpmath::detail::UniformBinaryOpInfo" name="mlir::fxpmath::detail::UniformBinaryOpInfo">
+<area shape="rect" id="node2" href="$classmlir_1_1Value.html" title="mlir::Value" alt="" coords="612,13,696,40"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="614,88,694,115"/>
+<area shape="rect" id="node4" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="284,88,409,115"/>
+<area shape="rect" id="node5" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="22,81,163,122"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; APFloat \&gt;" alt="" coords="567,148,741,175"/>
+<area shape="rect" id="node7" href="$classmlir_1_1quant_1_1UniformQuantizedType.html" title="mlir::quant::UniformQuantizedType" alt="" coords="541,211,767,237"/>
+<area shape="rect" id="node8" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Type::TypeBase\&lt; UniformQuantized\lType, QuantizedType, detail\l::UniformQuantizedTypeStorage \&gt;" alt="" coords="229,161,464,217"/>
+<area shape="rect" id="node10" href="$classmlir_1_1Operation.html" title="mlir::Operation" alt="" coords="601,303,707,329"/>
+<area shape="rect" id="node11" href="$classmlir_1_1IRMultiObjectWithUseList.html" title="mlir::IRMultiObjectWithUse\lList\&lt; OpOperand \&gt;" alt="" coords="255,242,438,283"/>
+<area shape="rect" id="node12" href="$classmlir_1_1IRObjectWithUseList.html" title="mlir::IRObjectWithUseList\l\&lt; OpOperand \&gt;" alt="" coords="5,242,180,283"/>
+</map>

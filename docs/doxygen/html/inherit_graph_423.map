@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1quantizer_1_1AbstractTensorStatistics.html" title="Base class for querying statistics about a tensor. " alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node2" href="$classmlir_1_1quantizer_1_1AttributeTensorStatistics.html" title="mlir::quantizer::Attribute\lTensorStatistics" alt="" coords="215,5,376,47"/>
+</map>

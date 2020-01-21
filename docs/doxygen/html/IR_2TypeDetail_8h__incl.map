@@ -1,0 +1,12 @@
+<map id="lib/IR/TypeDetail.h" name="lib/IR/TypeDetail.h">
+<area shape="rect" id="node2" href="$AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="432,80,567,107"/>
+<area shape="rect" id="node8" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="147,80,273,107"/>
+<area shape="rect" id="node10" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="661,229,815,256"/>
+<area shape="rect" id="node14" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="889,155,1040,181"/>
+<area shape="rect" id="node23" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="669,80,781,107"/>
+<area shape="rect" id="node3" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="561,453,702,480"/>
+<area shape="rect" id="node15" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="859,229,1070,256"/>
+<area shape="rect" id="node16" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="669,379,855,405"/>
+<area shape="rect" id="node17" href="$STLExtras_8h.html" title="mlir/Support/STLExtras.h" alt="" coords="880,379,1049,405"/>
+<area shape="rect" id="node19" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="1053,304,1250,331"/>
+</map>

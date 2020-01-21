@@ -1,0 +1,5 @@
+<map id="mlir::OperandRange" name="mlir::OperandRange">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1indexed__accessor__range__base.html" title="mlir::detail::indexed\l_accessor_range_base\l\&lt; OperandRange, OpOperand\l *, Value, Value, Value \&gt;" alt="" coords="449,5,644,76"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpOperand.html" title="A reference to a value, suitable for use as an operand of an operation. " alt="" coords="251,27,368,54"/>
+<area shape="rect" id="node4" href="$classmlir_1_1IROperand.html" title="mlir::IROperand\&lt; OpOperand,\l detail::OpaqueValue \&gt;" alt="" coords="5,20,201,61"/>
+</map>

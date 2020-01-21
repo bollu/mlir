@@ -1,0 +1,7 @@
+<map id="mlir::ModuleOp" name="mlir::ModuleOp">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ModuleOp,\l OpTrait::ZeroOperands,\l OpTrait::ZeroResult,\l OpTrait::IsIsolatedFromAbove,\l OpTrait::SymbolTable, OpTrait\l::SingleBlockImplicitTerminator\l\&lt; ModuleTerminatorOp \&gt;::Impl \&gt;" alt="" coords="543,20,755,135"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="322,5,421,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; ModuleOp \&gt;" alt="" coords="279,57,463,98"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ModuleOp, ZeroOperands \&gt;" alt="" coords="5,57,200,98"/>
+<area shape="rect" id="node6" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ModuleOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; ModuleOp \&gt;, OpTrait::ZeroOperands\l\&lt; ModuleOp \&gt;... \&gt;::value \&gt;" alt="" coords="248,123,495,208"/>
+</map>

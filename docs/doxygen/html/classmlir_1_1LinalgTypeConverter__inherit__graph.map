@@ -1,0 +1,4 @@
+<map id="mlir::LinalgTypeConverter" name="mlir::LinalgTypeConverter">
+<area shape="rect" id="node2" href="$classmlir_1_1LLVMTypeConverter.html" title="Conversion from types in the Standard dialect to the LLVM IR dialect. " alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1TypeConverter.html" title="mlir::TypeConverter" alt="" coords="22,5,159,32"/>
+</map>

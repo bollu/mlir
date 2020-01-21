@@ -1,0 +1,8 @@
+<map id="mlir::AffineDmaStartOp" name="mlir::AffineDmaStartOp">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineDmaStart\lOp, OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="929,49,1135,105"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="706,5,805,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; AffineDmaStartOp \&gt;" alt="" coords="653,57,858,98"/>
+<area shape="rect" id="node5" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; AffineDmaStartOp, VariadicOperands \&gt;" alt="" coords="317,49,581,105"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineDmaStartOp, VariadicOperands \&gt;" alt="" coords="5,57,269,98"/>
+<area shape="rect" id="node7" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineDmaStartOp, llvm\l::is_one_of\&lt; OpTrait::OneResult\l\&lt; AffineDmaStartOp \&gt;, OpTrait\l::VariadicOperands\&lt; AffineDmaStartOp\l \&gt;... \&gt;::value \&gt;" alt="" coords="629,122,881,222"/>
+</map>

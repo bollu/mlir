@@ -1,0 +1,4 @@
+<map id="mlir::DenseElementsAttr::BoolElementIterator" name="mlir::DenseElementsAttr::BoolElementIterator">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1DenseElementIndexedIteratorImpl.html" title="mlir::detail::DenseElement\lIndexedIteratorImpl\&lt; BoolElement\lIterator, bool, bool, bool \&gt;" alt="" coords="492,20,712,76"/>
+<area shape="rect" id="node3" href="$classmlir_1_1indexed__accessor__iterator.html" title="mlir::indexed_accessor\l_iterator\&lt; BoolElementIterator,\l DenseIterPtrAndSplat, bool,\l bool, bool \&gt;" alt="" coords="244,13,444,83"/>
+</map>

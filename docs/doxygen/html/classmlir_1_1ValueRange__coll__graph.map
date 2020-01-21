@@ -1,0 +1,5 @@
+<map id="mlir::ValueRange" name="mlir::ValueRange">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1indexed__accessor__range__base.html" title="mlir::detail::indexed\l_accessor_range_base\l\&lt; ValueRange, detail::\lValueRangeOwner, Value,\l Value, Value \&gt;" alt="" coords="463,5,639,91"/>
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1ValueRangeOwner.html" title="mlir::detail::ValueRange\lOwner" alt="" coords="220,27,381,69"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const mlir::Value\l *, mlir::OpOperand *,\l void *\&gt;" alt="" coords="5,13,152,83"/>
+</map>

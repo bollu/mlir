@@ -1,0 +1,7 @@
+<map id="mlir::quant::detail::UniformQuantizedPerAxisTypeStorage::KeyTy" name="mlir::quant::detail::UniformQuantizedPerAxisTypeStorage::KeyTy">
+<area shape="rect" id="node2" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="36,185,116,212"/>
+<area shape="rect" id="node3" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="13,96,139,123"/>
+<area shape="rect" id="node4" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; double \&gt;" alt="" coords="140,185,308,212"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; int64_t \&gt;" alt="" coords="333,185,502,212"/>
+</map>

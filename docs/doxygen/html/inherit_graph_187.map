@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1Builder.html" title="mlir::Builder" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpBuilder.html" title="mlir::OpBuilder" alt="" coords="144,5,252,32"/>
+<area shape="rect" id="node3" href="$classmlir_1_1PatternRewriter.html" title="mlir::PatternRewriter" alt="" coords="300,5,443,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1ConversionPatternRewriter.html" title="mlir::ConversionPatternRewriter" alt="" coords="491,5,699,32"/>
+</map>

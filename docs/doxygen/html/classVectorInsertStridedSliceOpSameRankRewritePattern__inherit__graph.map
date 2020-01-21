@@ -1,0 +1,5 @@
+<map id="VectorInsertStridedSliceOpSameRankRewritePattern" name="VectorInsertStridedSliceOpSameRankRewritePattern">
+<area shape="rect" id="node2" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; InsertStridedSliceOp \&gt;" alt="" coords="17,155,184,196"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="mlir::RewritePattern" alt="" coords="31,80,170,107"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="mlir::Pattern" alt="" coords="54,5,147,32"/>
+</map>

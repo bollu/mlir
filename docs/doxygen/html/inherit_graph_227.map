@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1detail_1_1indexed__accessor__range__base.html" title="mlir::detail::indexed\l_accessor_range_base\l\&lt; RegionRange, PointerUnion\l\&lt; Region *, const std::unique\l_ptr\&lt; Region \&gt; *\&gt;, Region *,\l Region *, Region *\&gt;" alt="" coords="5,5,201,105"/>
+<area shape="rect" id="node2" href="$classmlir_1_1RegionRange.html" title="mlir::RegionRange" alt="" coords="249,42,380,69"/>
+</map>

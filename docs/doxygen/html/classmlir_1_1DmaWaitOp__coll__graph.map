@@ -1,0 +1,8 @@
+<map id="mlir::DmaWaitOp" name="mlir::DmaWaitOp">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; DmaWaitOp,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="857,49,1041,105"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpState.html" title="mlir::OpState" alt="" coords="635,5,734,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; DmaWaitOp \&gt;" alt="" coords="582,57,787,98"/>
+<area shape="rect" id="node5" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; DmaWaitOp, VariadicOperands \&gt;" alt="" coords="283,49,512,105"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; DmaWaitOp, VariadicOperands \&gt;" alt="" coords="5,57,235,98"/>
+<area shape="rect" id="node7" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l DmaWaitOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; DmaWaitOp \&gt;, OpTrait::Variadic\lOperands\&lt; DmaWaitOp \&gt;... \&gt;::value \&gt;" alt="" coords="560,123,809,208"/>
+</map>

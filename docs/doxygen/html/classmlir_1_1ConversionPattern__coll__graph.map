@@ -1,0 +1,5 @@
+<map id="mlir::ConversionPattern" name="mlir::ConversionPattern">
+<area shape="rect" id="node2" href="$classmlir_1_1RewritePattern.html" title="mlir::RewritePattern" alt="" coords="61,109,200,136"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Pattern.html" title="mlir::Pattern" alt="" coords="5,13,99,39"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::OperationName, 2 \&gt;" alt="" coords="123,5,296,47"/>
+</map>

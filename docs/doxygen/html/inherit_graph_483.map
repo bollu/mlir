@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="5,56,85,83"/>
+<area shape="rect" id="node2" href="$classmlir_1_1quant_1_1QuantizedType.html" title="mlir::quant::QuantizedType" alt="" coords="133,5,312,32"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ShapedType.html" title="mlir::ShapedType" alt="" coords="161,56,285,83"/>
+<area shape="rect" id="node6" href="$classmlir_1_1spirv_1_1CompositeType.html" title="mlir::spirv::CompositeType" alt="" coords="133,107,312,133"/>
+<area shape="rect" id="node4" href="$classmlir_1_1BaseMemRefType.html" title="Base MemRef for Ranked and Unranked variants. " alt="" coords="360,31,520,57"/>
+<area shape="rect" id="node5" href="$classmlir_1_1TensorType.html" title="mlir::TensorType" alt="" coords="380,81,500,108"/>
+</map>

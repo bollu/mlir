@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1detail_1_1OpToOpPassAdaptorBase.html" title="A base class for Op&#45;to&#45;Op adaptor passes. " alt="" coords="706,201,875,243"/>
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1OpToOpPassAdaptor.html" title="mlir::detail::OpToOpPass\lAdaptor" alt="" coords="945,168,1115,209"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1OpToOpPassAdaptorParallel.html" title="mlir::detail::OpToOpPass\lAdaptorParallel" alt="" coords="945,251,1115,292"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pass.html" title="mlir::Pass" alt="" coords="5,249,87,275"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OpPassBase.html" title="mlir::OpPassBase\&lt; OpT \&gt;" alt="" coords="151,147,329,174"/>
+<area shape="rect" id="node8" href="$classmlir_1_1OpPassBase.html" title="mlir::OpPassBase\&lt; FuncOp \&gt;" alt="" coords="141,63,339,90"/>
+<area shape="rect" id="node12" href="$classmlir_1_1OpPassBase.html" title="mlir::OpPassBase\&lt; ModuleOp \&gt;" alt="" coords="135,326,345,353"/>
+<area shape="rect" id="node16" href="$classmlir_1_1OpPassBase.html" title="mlir::OpPassBase\&lt; void \&gt;" alt="" coords="152,249,328,275"/>
+<area shape="rect" id="node24" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; PassT, Pass \&gt;" alt="" coords="163,432,317,473"/>
+<area shape="rect" id="node6" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; PassT, OpPassBase\&lt; OpT \&gt; \&gt;" alt="" coords="405,73,624,115"/>
+<area shape="rect" id="node7" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; PassT, OpT \&gt;" alt="" coords="722,71,859,112"/>
+<area shape="rect" id="node9" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; T, OpPassBase\&lt; FuncOp \&gt; \&gt;" alt="" coords="410,7,619,48"/>
+<area shape="rect" id="node10" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; T, FuncOp \&gt;" alt="" coords="722,5,859,47"/>
+<area shape="rect" id="node11" href="$structmlir_1_1FunctionPass.html" title="mlir::FunctionPass\&lt; T \&gt;" alt="" coords="949,13,1111,39"/>
+<area shape="rect" id="node13" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; T, OpPassBase\&lt; ModuleOp \&gt; \&gt;" alt="" coords="403,395,626,436"/>
+<area shape="rect" id="node14" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; T, ModuleOp \&gt;" alt="" coords="722,397,859,439"/>
+<area shape="rect" id="node15" href="$structmlir_1_1ModulePass.html" title="mlir::ModulePass\&lt; T \&gt;" alt="" coords="953,405,1107,431"/>
+<area shape="rect" id="node17" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; OpToOpPassAdaptor, OpPassBase\l\&lt; void \&gt; \&gt;" alt="" coords="393,145,636,201"/>
+<area shape="rect" id="node19" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; OpToOpPassAdaptorParallel,\l OpPassBase\&lt; void \&gt; \&gt;" alt="" coords="412,234,617,290"/>
+<area shape="rect" id="node21" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; VerifierPass, OpPassBase\l\&lt; void \&gt; \&gt;" alt="" coords="419,314,610,370"/>
+<area shape="rect" id="node18" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; OpToOpPassAdaptor \&gt;" alt="" coords="705,136,876,177"/>
+<area shape="rect" id="node20" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; OpToOpPassAdaptorParallel \&gt;" alt="" coords="684,267,897,308"/>
+<area shape="rect" id="node22" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; VerifierPass \&gt;" alt="" coords="722,332,859,373"/>
+<area shape="rect" id="node23" href="$classmlir_1_1detail_1_1VerifierPass.html" title="Pass to verify an operation and signal failure if necessary. " alt="" coords="949,339,1111,366"/>
+<area shape="rect" id="node25" href="$structmlir_1_1OperationPass_3_01PassT_00_01void_01_4.html" title="mlir::OperationPass\l\&lt; PassT, void \&gt;" alt="" coords="446,460,583,501"/>
+</map>

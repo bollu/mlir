@@ -1,0 +1,5 @@
+<map id="mlir::quant::detail::AnyQuantizedTypeStorage::KeyTy" name="mlir::quant::detail::AnyQuantizedTypeStorage::KeyTy">
+<area shape="rect" id="node2" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="59,185,139,212"/>
+<area shape="rect" id="node3" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="36,96,161,123"/>
+<area shape="rect" id="node4" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="28,5,169,47"/>
+</map>

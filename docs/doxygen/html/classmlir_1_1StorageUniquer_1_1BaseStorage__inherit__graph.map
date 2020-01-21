@@ -1,0 +1,50 @@
+<map id="mlir::StorageUniquer::BaseStorage" name="mlir::StorageUniquer::BaseStorage">
+<area shape="rect" id="node2" href="$classmlir_1_1AttributeStorage.html" title="mlir::AttributeStorage" alt="" coords="223,634,368,661"/>
+<area shape="rect" id="node22" href="$structmlir_1_1detail_1_1AffineExprStorage.html" title="Base storage class appearing in an affine expression. " alt="" coords="220,1345,371,1387"/>
+<area shape="rect" id="node26" href="$structmlir_1_1detail_1_1SDBMExprStorage.html" title="mlir::detail::SDBMExprStorage" alt="" coords="195,1549,396,1575"/>
+<area shape="rect" id="node32" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="233,2126,358,2153"/>
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1AffineMapAttributeStorage.html" title="mlir::detail::AffineMapAttribute\lStorage" alt="" coords="447,5,645,47"/>
+<area shape="rect" id="node4" href="$structmlir_1_1detail_1_1ArrayAttributeStorage.html" title="An attribute representing an array of other attributes. " alt="" coords="461,71,631,112"/>
+<area shape="rect" id="node5" href="$structmlir_1_1detail_1_1BoolAttributeStorage.html" title="An attribute representing a boolean value. " alt="" coords="463,136,629,177"/>
+<area shape="rect" id="node6" href="$structmlir_1_1detail_1_1CallSiteLocationStorage.html" title="mlir::detail::CallSiteLocation\lStorage" alt="" coords="453,201,639,243"/>
+<area shape="rect" id="node7" href="$structmlir_1_1detail_1_1DenseElementsAttributeStorage.html" title="An attribute representing a reference to a dense vector or tensor object. " alt="" coords="455,267,637,308"/>
+<area shape="rect" id="node8" href="$structmlir_1_1detail_1_1DictionaryAttributeStorage.html" title="An attribute representing a dictionary of sorted named attributes. " alt="" coords="471,332,621,373"/>
+<area shape="rect" id="node9" href="$structmlir_1_1detail_1_1FileLineColLocationStorage.html" title="mlir::detail::FileLineCol\lLocationStorage" alt="" coords="469,397,623,439"/>
+<area shape="rect" id="node10" href="$structmlir_1_1detail_1_1FloatAttributeStorage.html" title="An attribute representing a floating point value. " alt="" coords="462,463,630,504"/>
+<area shape="rect" id="node11" href="$structmlir_1_1detail_1_1FusedLocationStorage.html" title="mlir::detail::FusedLocation\lStorage" alt="" coords="459,528,633,569"/>
+<area shape="rect" id="node12" href="$structmlir_1_1detail_1_1IntegerAttributeStorage.html" title="An attribute representing a integral value. " alt="" coords="457,593,635,635"/>
+<area shape="rect" id="node13" href="$structmlir_1_1detail_1_1IntegerSetAttributeStorage.html" title="mlir::detail::IntegerSet\lAttributeStorage" alt="" coords="471,659,621,700"/>
+<area shape="rect" id="node14" href="$structmlir_1_1detail_1_1NameLocationStorage.html" title="mlir::detail::NameLocation\lStorage" alt="" coords="459,724,633,765"/>
+<area shape="rect" id="node15" href="$structmlir_1_1detail_1_1OpaqueAttributeStorage.html" title="Opaque Attribute Storage and Uniquing. " alt="" coords="454,789,638,831"/>
+<area shape="rect" id="node16" href="$structmlir_1_1detail_1_1OpaqueElementsAttributeStorage.html" title="mlir::detail::OpaqueElements\lAttributeStorage" alt="" coords="451,855,641,896"/>
+<area shape="rect" id="node17" href="$structmlir_1_1detail_1_1OpaqueLocationStorage.html" title="mlir::detail::OpaqueLocation\lStorage" alt="" coords="454,920,638,961"/>
+<area shape="rect" id="node18" href="$structmlir_1_1detail_1_1SparseElementsAttributeStorage.html" title="An attribute representing a reference to a sparse vector or tensor object. " alt="" coords="453,985,639,1027"/>
+<area shape="rect" id="node19" href="$structmlir_1_1detail_1_1StringAttributeStorage.html" title="An attribute representing a string value. " alt="" coords="459,1051,633,1092"/>
+<area shape="rect" id="node20" href="$structmlir_1_1detail_1_1SymbolRefAttributeStorage.html" title="An attribute representing a symbol reference. " alt="" coords="444,1116,648,1157"/>
+<area shape="rect" id="node21" href="$structmlir_1_1detail_1_1TypeAttributeStorage.html" title="An attribute representing a reference to a type. " alt="" coords="462,1181,630,1223"/>
+<area shape="rect" id="node23" href="$structmlir_1_1detail_1_1AffineBinaryOpExprStorage.html" title="A binary operation appearing in an affine expression. " alt="" coords="465,1247,627,1288"/>
+<area shape="rect" id="node24" href="$structmlir_1_1detail_1_1AffineConstantExprStorage.html" title="An integer constant appearing in affine expression. " alt="" coords="457,1312,635,1353"/>
+<area shape="rect" id="node25" href="$structmlir_1_1detail_1_1AffineDimExprStorage.html" title="A dimensional or symbolic identifier appearing in an affine expression. " alt="" coords="459,1377,633,1419"/>
+<area shape="rect" id="node27" href="$structmlir_1_1detail_1_1SDBMBinaryExprStorage.html" title="mlir::detail::SDBMBinary\lExprStorage" alt="" coords="463,1443,629,1484"/>
+<area shape="rect" id="node28" href="$structmlir_1_1detail_1_1SDBMConstantExprStorage.html" title="mlir::detail::SDBMConstant\lExprStorage" alt="" coords="455,1508,637,1549"/>
+<area shape="rect" id="node29" href="$structmlir_1_1detail_1_1SDBMDiffExprStorage.html" title="mlir::detail::SDBMDiffExpr\lStorage" alt="" coords="457,1573,635,1615"/>
+<area shape="rect" id="node30" href="$structmlir_1_1detail_1_1SDBMNegExprStorage.html" title="mlir::detail::SDBMNegExpr\lStorage" alt="" coords="456,1639,636,1680"/>
+<area shape="rect" id="node31" href="$structmlir_1_1detail_1_1SDBMTermExprStorage.html" title="mlir::detail::SDBMTermExpr\lStorage" alt="" coords="453,1704,639,1745"/>
+<area shape="rect" id="node33" href="$structmlir_1_1detail_1_1ComplexTypeStorage.html" title="Complex Type Storage. " alt="" coords="461,1769,631,1811"/>
+<area shape="rect" id="node34" href="$structmlir_1_1detail_1_1FunctionTypeStorage.html" title="Function Type Storage and Uniquing. " alt="" coords="461,1835,631,1876"/>
+<area shape="rect" id="node35" href="$structmlir_1_1detail_1_1IntegerTypeStorage.html" title="Integer Type Storage and Uniquing. " alt="" coords="467,1900,625,1941"/>
+<area shape="rect" id="node36" href="$structmlir_1_1detail_1_1OpaqueTypeStorage.html" title="Opaque Type Storage and Uniquing. " alt="" coords="464,1965,628,2007"/>
+<area shape="rect" id="node37" href="$structmlir_1_1detail_1_1ShapedTypeStorage.html" title="Shaped Type Storage. " alt="" coords="465,2031,627,2072"/>
+<area shape="rect" id="node42" href="$structmlir_1_1detail_1_1TupleTypeStorage.html" title="A type representing a collection of other types. " alt="" coords="448,2097,644,2123"/>
+<area shape="rect" id="node43" href="$structmlir_1_1LLVM_1_1detail_1_1LLVMTypeStorage.html" title="mlir::LLVM::detail\l::LLVMTypeStorage" alt="" coords="477,2148,615,2189"/>
+<area shape="rect" id="node44" href="$structmlir_1_1quant_1_1detail_1_1QuantizedTypeStorage.html" title="mlir::quant::detail\l::QuantizedTypeStorage" alt="" coords="465,2213,627,2255"/>
+<area shape="rect" id="node45" href="$structspirv_1_1detail_1_1ArrayTypeStorage.html" title="mlir::spirv::detail\l::ArrayTypeStorage" alt="" coords="479,2279,613,2320"/>
+<area shape="rect" id="node46" href="$structspirv_1_1detail_1_1ImageTypeStorage.html" title="spirv::detail::ImageType\lStorage" alt="" coords="465,2344,627,2385"/>
+<area shape="rect" id="node47" href="$structspirv_1_1detail_1_1PointerTypeStorage.html" title="mlir::spirv::detail\l::PointerTypeStorage" alt="" coords="473,2409,619,2451"/>
+<area shape="rect" id="node48" href="$structspirv_1_1detail_1_1RuntimeArrayTypeStorage.html" title="mlir::spirv::detail\l::RuntimeArrayTypeStorage" alt="" coords="454,2475,638,2516"/>
+<area shape="rect" id="node49" href="$structspirv_1_1detail_1_1StructTypeStorage.html" title="mlir::spirv::detail\l::StructTypeStorage" alt="" coords="477,2540,615,2581"/>
+<area shape="rect" id="node38" href="$structmlir_1_1detail_1_1MemRefTypeStorage.html" title="mlir::detail::MemRefType\lStorage" alt="" coords="705,1933,874,1975"/>
+<area shape="rect" id="node39" href="$structmlir_1_1detail_1_1RankedTensorTypeStorage.html" title="mlir::detail::RankedTensor\lTypeStorage" alt="" coords="702,1999,877,2040"/>
+<area shape="rect" id="node40" href="$structmlir_1_1detail_1_1UnrankedMemRefTypeStorage.html" title="mlir::detail::UnrankedMem\lRefTypeStorage" alt="" coords="702,2064,877,2105"/>
+<area shape="rect" id="node41" href="$structmlir_1_1detail_1_1UnrankedTensorTypeStorage.html" title="mlir::detail::UnrankedTensor\lTypeStorage" alt="" coords="696,2129,883,2171"/>
+</map>

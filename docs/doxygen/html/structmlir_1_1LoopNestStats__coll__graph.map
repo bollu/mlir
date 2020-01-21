@@ -1,0 +1,4 @@
+<map id="mlir::LoopNestStats" name="mlir::LoopNestStats">
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; mlir\l::Operation *, uint64_t \&gt;" alt="" coords="14,5,175,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; mlir\l::Operation *, llvm::\lSmallVector\&lt; AffineForOp,\l 2 \&gt; \&gt;" alt="" coords="5,71,184,141"/>
+</map>

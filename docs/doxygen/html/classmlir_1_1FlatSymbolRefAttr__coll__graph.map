@@ -1,0 +1,4 @@
+<map id="mlir::FlatSymbolRefAttr" name="mlir::FlatSymbolRefAttr">
+<area shape="rect" id="node2" href="$classmlir_1_1SymbolRefAttr.html" title="mlir::SymbolRefAttr" alt="" coords="397,20,535,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Attribute::AttrBase\l\&lt; SymbolRefAttr, Attribute,\l detail::SymbolRefAttributeStorage \&gt;" alt="" coords="113,5,349,61"/>
+</map>

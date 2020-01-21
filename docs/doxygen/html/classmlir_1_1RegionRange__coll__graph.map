@@ -1,0 +1,4 @@
+<map id="mlir::RegionRange" name="mlir::RegionRange">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1indexed__accessor__range__base.html" title="mlir::detail::indexed\l_accessor_range_base\l\&lt; RegionRange, PointerUnion\l\&lt; Region *, const std::unique\l_ptr\&lt; Region \&gt; *\&gt;, Region *,\l Region *, Region *\&gt;" alt="" coords="259,5,455,105"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; Region *, const std\l::unique_ptr\&lt; Region \&gt; *\&gt;" alt="" coords="5,27,177,83"/>
+</map>

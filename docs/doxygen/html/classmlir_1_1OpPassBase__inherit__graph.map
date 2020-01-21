@@ -1,0 +1,5 @@
+<map id="mlir::OpPassBase&lt; OpT &gt;" name="mlir::OpPassBase&lt; OpT &gt;">
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1PassModel.html" title="PassModel\&lt; PassT, OpPass\lBase\&lt; OpT \&gt; \&gt;" alt="" coords="5,155,197,196"/>
+<area shape="rect" id="node2" href="$classmlir_1_1Pass.html" title="mlir::Pass" alt="" coords="61,5,142,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; PassT, OpT \&gt;" alt="" coords="33,244,170,285"/>
+</map>

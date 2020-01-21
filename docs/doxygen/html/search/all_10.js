@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['quantizationdialect',['QuantizationDialect',['../classmlir_1_1quant_1_1QuantizationDialect.html',1,'mlir::quant::QuantizationDialect'],['../classmlir_1_1quant_1_1QuantizationDialect.html#a7079925f902d6ead82e4c0a55001ae2f',1,'mlir::quant::QuantizationDialect::QuantizationDialect()']]],
+  ['quantize',['quantize',['../classmlir_1_1quantizer_1_1UniformParamsFromMinMaxSolver.html#a8bcfae78aed58ecf2ec638940767abbb',1,'mlir::quantizer::UniformParamsFromMinMaxSolver']]],
+  ['quantizeattr',['quantizeAttr',['../namespacemlir_1_1quant.html#a52d54d2f1edc39c48667e52283642929',1,'mlir::quant']]],
+  ['quantizeattruniform',['quantizeAttrUniform',['../namespacemlir_1_1quant.html#a9b5e4b442964048fd631bc49645a8eba',1,'mlir::quant']]],
+  ['quantizeddimension',['quantizedDimension',['../structmlir_1_1quant_1_1detail_1_1UniformQuantizedPerAxisTypeStorage_1_1KeyTy.html#a871832b6a48bd9fd68558ea81af78a48',1,'mlir::quant::detail::UniformQuantizedPerAxisTypeStorage::KeyTy::quantizedDimension()'],['../structmlir_1_1quant_1_1detail_1_1UniformQuantizedPerAxisTypeStorage.html#a43270ce643e707706d559b554570a47e',1,'mlir::quant::detail::UniformQuantizedPerAxisTypeStorage::quantizedDimension()']]],
+  ['quantizedmultipliersmallerthanoneexp',['QuantizedMultiplierSmallerThanOneExp',['../structmlir_1_1fxpmath_1_1detail_1_1QuantizedMultiplierSmallerThanOneExp.html',1,'mlir::fxpmath::detail::QuantizedMultiplierSmallerThanOneExp'],['../structmlir_1_1fxpmath_1_1detail_1_1QuantizedMultiplierSmallerThanOneExp.html#ad71ccc0ff7ba842f97351d5d1f975a1a',1,'mlir::fxpmath::detail::QuantizedMultiplierSmallerThanOneExp::QuantizedMultiplierSmallerThanOneExp()']]],
+  ['quantizedtype',['QuantizedType',['../classmlir_1_1quant_1_1QuantizedType.html',1,'mlir::quant::QuantizedType'],['../structmlir_1_1quantizer_1_1CandidateQuantizedType.html#a5d5504134a4e35c5e4d22734d2082234',1,'mlir::quantizer::CandidateQuantizedType::quantizedType()']]],
+  ['quantizedtypestorage',['QuantizedTypeStorage',['../structmlir_1_1quant_1_1detail_1_1QuantizedTypeStorage.html',1,'mlir::quant::detail::QuantizedTypeStorage'],['../structmlir_1_1quant_1_1detail_1_1QuantizedTypeStorage.html#acd1a2e7dcc1aeab288f984910428d086',1,'mlir::quant::detail::QuantizedTypeStorage::QuantizedTypeStorage()']]],
+  ['quantizefloattoint',['quantizeFloatToInt',['../classmlir_1_1quant_1_1UniformQuantizedValueConverter.html#a381c0f54e65eed93ccb52e7028486cc7',1,'mlir::quant::UniformQuantizedValueConverter']]],
+  ['quantizefloattoint64',['quantizeFloatToInt64',['../classmlir_1_1quant_1_1UniformQuantizedValueConverter.html#a1f50e95521591cd6d8a4a81b7c52018e',1,'mlir::quant::UniformQuantizedValueConverter']]],
+  ['quantizeutils_2ecpp',['QuantizeUtils.cpp',['../QuantizeUtils_8cpp.html',1,'']]],
+  ['quantizeutils_2eh',['QuantizeUtils.h',['../QuantizeUtils_8h.html',1,'']]],
+  ['quantops_2ecpp',['QuantOps.cpp',['../QuantOps_8cpp.html',1,'']]],
+  ['quantops_2eh',['QuantOps.h',['../QuantOps_8h.html',1,'']]],
+  ['quantparamssize',['quantParamsSize',['../structmlir_1_1quant_1_1detail_1_1UniformQuantizedPerAxisTypeStorage.html#a3a28228bd5877a3de1eeb407b1807ee8',1,'mlir::quant::detail::UniformQuantizedPerAxisTypeStorage']]],
+  ['quanttypes_2ecpp',['QuantTypes.cpp',['../QuantTypes_8cpp.html',1,'']]],
+  ['quanttypes_2eh',['QuantTypes.h',['../QuantTypes_8h.html',1,'']]]
+];

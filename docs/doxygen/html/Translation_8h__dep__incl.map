@@ -1,0 +1,10 @@
+<map id="include/mlir/Translation.h" name="include/mlir/Translation.h">
+<area shape="rect" id="node2" href="$TranslateRegistration_8cpp.html" title="lib/Dialect/SPIRV/Serialization\l/TranslateRegistration.cpp" alt="" coords="5,80,205,121"/>
+<area shape="rect" id="node3" href="$TranslateClParser_8cpp.html" title="lib/Support/TranslateClParser.cpp" alt="" coords="703,169,921,196"/>
+<area shape="rect" id="node4" href="$ConvertFromLLVMIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lFromLLVMIR.cpp" alt="" coords="280,80,459,121"/>
+<area shape="rect" id="node5" href="$ConvertToLLVMIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lToLLVMIR.cpp" alt="" coords="483,80,661,121"/>
+<area shape="rect" id="node6" href="$ConvertToNVVMIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lToNVVMIR.cpp" alt="" coords="685,80,864,121"/>
+<area shape="rect" id="node7" href="$ConvertToROCDLIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lToROCDLIR.cpp" alt="" coords="888,80,1067,121"/>
+<area shape="rect" id="node8" href="$Translation_8cpp.html" title="lib/Translation/Translation.cpp" alt="" coords="1091,87,1287,114"/>
+<area shape="rect" id="node9" href="$TranslateClParser_8h.html" title="include/mlir/Support\l/TranslateClParser.h" alt="" coords="1311,80,1454,121"/>
+</map>

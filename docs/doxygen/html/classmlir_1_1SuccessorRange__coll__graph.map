@@ -1,0 +1,5 @@
+<map id="mlir::SuccessorRange" name="mlir::SuccessorRange">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1indexed__accessor__range__base.html" title="mlir::detail::indexed\l_accessor_range_base\l\&lt; SuccessorRange, BlockOperand\l *, Block *, Block *, Block *\&gt;" alt="" coords="481,5,705,76"/>
+<area shape="rect" id="node3" href="$classmlir_1_1BlockOperand.html" title="Terminator operations can have Block operands to represent successors. " alt="" coords="267,27,400,54"/>
+<area shape="rect" id="node4" href="$classmlir_1_1IROperand.html" title="mlir::IROperand\&lt; BlockOperand,\l Block *\&gt;" alt="" coords="5,20,217,61"/>
+</map>

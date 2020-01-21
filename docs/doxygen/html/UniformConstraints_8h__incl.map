@@ -1,0 +1,11 @@
+<map id="include/mlir/Quantizer/Support/UniformConstraints.h" name="include/mlir/Quantizer/Support/UniformConstraints.h">
+<area shape="rect" id="node2" href="$Statistics_8h.html" title="mlir/Quantizer/Support\l/Statistics.h" alt="" coords="561,95,713,136"/>
+<area shape="rect" id="node3" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="571,184,703,211"/>
+<area shape="rect" id="node4" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="289,259,460,285"/>
+<area shape="rect" id="node5" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="91,333,245,360"/>
+<area shape="rect" id="node12" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="269,333,480,360"/>
+<area shape="rect" id="node6" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="77,557,219,584"/>
+<area shape="rect" id="node13" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="55,483,241,509"/>
+<area shape="rect" id="node14" href="$STLExtras_8h.html" title="mlir/Support/STLExtras.h" alt="" coords="266,483,435,509"/>
+<area shape="rect" id="node16" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="439,408,636,435"/>
+</map>

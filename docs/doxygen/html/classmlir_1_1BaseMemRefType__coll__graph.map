@@ -1,0 +1,6 @@
+<map id="mlir::BaseMemRefType" name="mlir::BaseMemRefType">
+<area shape="rect" id="node2" href="$classmlir_1_1ShapedType.html" title="mlir::ShapedType" alt="" coords="23,261,147,288"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Type.html" title="mlir::Type" alt="" coords="45,185,125,212"/>
+<area shape="rect" id="node4" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="23,96,148,123"/>
+<area shape="rect" id="node5" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="mlir::StorageUniquer\l::BaseStorage" alt="" coords="15,5,156,47"/>
+</map>

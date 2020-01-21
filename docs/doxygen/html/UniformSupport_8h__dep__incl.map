@@ -1,0 +1,8 @@
+<map id="include/mlir/Dialect/QuantOps/UniformSupport.h" name="include/mlir/Dialect/QuantOps/UniformSupport.h">
+<area shape="rect" id="node2" href="$UniformKernelUtils_8h.html" title="lib/Dialect/FxpMathOps\l/Transforms/UniformKernelUtils.h" alt="" coords="5,95,223,136"/>
+<area shape="rect" id="node4" href="$ConvertConst_8cpp.html" title="lib/Dialect/QuantOps\l/Transforms/ConvertConst.cpp" alt="" coords="247,95,450,136"/>
+<area shape="rect" id="node5" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/QuantOps\l/Transforms/ConvertSimQuant.cpp" alt="" coords="475,95,700,136"/>
+<area shape="rect" id="node6" href="$QuantizeUtils_8cpp.html" title="lib/Dialect/QuantOps\l/Utils/QuantizeUtils.cpp" alt="" coords="724,95,885,136"/>
+<area shape="rect" id="node7" href="$UniformSupport_8cpp.html" title="lib/Dialect/QuantOps\l/Utils/UniformSupport.cpp" alt="" coords="910,95,1083,136"/>
+<area shape="rect" id="node3" href="$LowerUniformRealMath_8cpp.html" title="lib/Dialect/FxpMathOps\l/Transforms/LowerUniformReal\lMath.cpp" alt="" coords="12,184,216,240"/>
+</map>

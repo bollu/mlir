@@ -1,0 +1,4 @@
+<map id="mlir::OperationPass&lt; PassT, void &gt;" name="mlir::OperationPass&lt; PassT, void &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1PassModel.html" title="mlir::detail::PassModel\l\&lt; PassT, Pass \&gt;" alt="" coords="5,80,160,121"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Pass.html" title="mlir::Pass" alt="" coords="42,5,123,32"/>
+</map>

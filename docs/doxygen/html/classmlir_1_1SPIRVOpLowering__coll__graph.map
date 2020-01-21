@@ -1,0 +1,9 @@
+<map id="mlir::SPIRVOpLowering&lt; SourceOp &gt;" name="mlir::SPIRVOpLowering&lt; SourceOp &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; SourceOp \&gt;" alt="" coords="43,261,219,303"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ConversionPattern.html" title="mlir::ConversionPattern" alt="" coords="51,185,210,212"/>
+<area shape="rect" id="node4" href="$classmlir_1_1RewritePattern.html" title="mlir::RewritePattern" alt="" coords="61,109,200,136"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Pattern.html" title="mlir::Pattern" alt="" coords="5,13,99,39"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::OperationName, 2 \&gt;" alt="" coords="123,5,296,47"/>
+<area shape="rect" id="node7" href="$classmlir_1_1SPIRVTypeConverter.html" title="mlir::SPIRVTypeConverter" alt="" coords="243,269,421,295"/>
+<area shape="rect" id="node8" href="$classmlir_1_1TypeConverter.html" title="mlir::TypeConverter" alt="" coords="263,185,401,212"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mlir::StructBuilder" name="mlir::StructBuilder">
+<area shape="rect" id="node2" href="$classmlir_1_1MemRefDescriptor.html" title="mlir::MemRefDescriptor" alt="" coords="5,80,167,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1UnrankedMemRefDescriptor.html" title="mlir::UnrankedMemRefDescriptor" alt="" coords="191,80,408,107"/>
+</map>

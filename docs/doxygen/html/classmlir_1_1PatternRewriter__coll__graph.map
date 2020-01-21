@@ -1,0 +1,5 @@
+<map id="mlir::PatternRewriter" name="mlir::PatternRewriter">
+<area shape="rect" id="node2" href="$classmlir_1_1OpBuilder.html" title="mlir::OpBuilder" alt="" coords="23,171,131,197"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Builder.html" title="mlir::Builder" alt="" coords="31,95,122,121"/>
+<area shape="rect" id="node4" href="$classmlir_1_1MLIRContext.html" title="mlir::MLIRContext" alt="" coords="12,5,141,32"/>
+</map>

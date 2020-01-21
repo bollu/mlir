@@ -1,0 +1,4 @@
+<map id="LinalgRewritePattern&lt; LoopType, IndexedValueType, ConcreteOp &gt;" name="LinalgRewritePattern&lt; LoopType, IndexedValueType, ConcreteOp &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1RewritePattern.html" title="mlir::RewritePattern" alt="" coords="41,80,180,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Pattern.html" title="mlir::Pattern" alt="" coords="64,5,157,32"/>
+</map>
